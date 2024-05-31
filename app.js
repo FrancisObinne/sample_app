@@ -1,5 +1,6 @@
 const demoFunc = () => {
-    console.logI('hello demo func');
+    console.log('hello demo func');
+    console.log('cloned git repo to local machine');
 }
 
 demoFunc();
